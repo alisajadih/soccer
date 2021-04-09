@@ -823,23 +823,23 @@
         start_angle: 0,
         time: {
             Days: {
-                show: true,
-                text: "Days",
+                show: false,
+                text: "روز",
                 color: "#FC6"
             },
             Hours: {
                 show: true,
-                text: "Hours",
+                text: "ساعت",
                 color: "#9CF"
             },
             Minutes: {
                 show: true,
-                text: "Minutes",
+                text: "دقیقه",
                 color: "#BFB"
             },
             Seconds: {
                 show: true,
-                text: "Seconds",
+                text: "ثانیه",
                 color: "#F99"
             }
         }
